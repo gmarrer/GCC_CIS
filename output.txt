@@ -1,0 +1,13 @@
+Parts Report - Control Break
+Part#    Amount 
+3         1
+Sub Total >>>  3         1
+2         3
+Sub Total >>>  2         3
+3         2
+Sub Total >>>  3         2
+6         6
+Sub Total >>>  6         6
+3         2
+Sub Total >>>  3         2
+Grand Total >>>  14  Part Count=  5
