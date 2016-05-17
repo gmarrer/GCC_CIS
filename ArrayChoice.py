@@ -8,11 +8,11 @@ myArrayValue = ["Dog", "Cat", "Fish"]
 cnt = 0
 
 while cnt <= 2:
-    print ("Loop iteration - Subscript ", cnt)
+    print "Loop iteration - Subscript ", cnt
     if (myArrayKey[cnt] == 2):
-        print ("Found it: ", myArrayValue[cnt])
+        print "Found it: ", myArrayValue[cnt]
         break
     else :
-        print ("Not Found")
+        print "Not Found"
 
     cnt = cnt + 1
